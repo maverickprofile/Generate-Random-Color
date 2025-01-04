@@ -23,13 +23,11 @@ This project generates a random color each time a button is clicked. The backgro
 ## Installation:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/random-color-generator.git
+   git clone https://github.com/your-usernam/random-color-generator.git
    ```
 
 2. Open the `index.html` file in your browser.
 
-## License:
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
