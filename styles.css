@@ -1,0 +1,23 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center content vertically */
+    align-items: center; /* Center content horizontally */
+    text-align: center;
+    
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+div {
+    height: 200px;
+    width: 700px;
+    text-align: center;
+    margin: auto;
+    border-color: 1px solid black;
+}
